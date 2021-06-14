@@ -1,4 +1,4 @@
-package pages;
+package testData;
 
 public class TestData {
 
